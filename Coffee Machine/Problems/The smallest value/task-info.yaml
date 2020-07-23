@@ -1,0 +1,18 @@
+type: code
+files:
+- name: src/Main.java
+  visible: true
+  text: |-
+    class Main {
+        public static void main(String[] args) {
+            // put your code here
+        }
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/2229
+status: Unchecked
+feedback:
+  message: "Failed to connect to server, check the Internet connection \n\nFailed\
+    \ to connect to hyperskill.org/13.95.11.223:443"
+  time: Mon, 20 Jul 2020 06:06:54 UTC
+record: -1
